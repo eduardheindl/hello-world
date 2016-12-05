@@ -4,3 +4,4 @@ Now I try to learn that language.
 
 this is the stuff.
 Continue the work when time is available
+step by step learning is hard
