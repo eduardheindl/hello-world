@@ -1,4 +1,5 @@
 # hello-world
 This is for the first steps to use GitHub
-Now I try to learn that language
-this is the stuff
+Now I try to learn that language.
+
+this is the stuff.
